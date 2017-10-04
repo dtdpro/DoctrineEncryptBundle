@@ -1,5 +1,5 @@
 {
-    "name": "smoked/doctrine-encrypt-bundle",
+    "name": "dtdpro/doctrine-encrypt-bundle",
     "type": "library",
     "keywords": ["doctrine", "symfony", "aes256", "rijndael", "encrypt", "decrypt"],
     "license": "MIT",
